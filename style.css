@@ -1,0 +1,51 @@
+body{
+    background-image: url(/British\ Wapaper.jpg);
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    margin-top: 0rem;
+    border-bottom:1rem solid black;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem ;
+}
+::placeholder{
+    text-align: center;
+}
+textarea {
+    border-top: 1rem solid black;
+     border-radius: 2rem;
+    display: block;
+    padding: 1rem;
+    height: 10vh;
+    width: 80%;
+    margin: auto;
+}
+button{
+    border-radius: 1rem;
+  }
+.cent{
+    text-align: center;
+}
+.lin{
+    padding: 0rem;
+}
+#output{
+    border: 1px solid black;
+    border-top: 1rem solid black;
+    margin: auto; 
+ }
+#speak{
+    margin: 1rem;
+    margin-bottom: 2rem;
+}
+footer{
+    border-top:1rem solid black;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem ;
+    
+}
+.foot{
+    margin-top: 1.5rem;
+   
+    }
