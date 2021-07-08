@@ -3,7 +3,7 @@ var txt = document.querySelector("#txt");
 var output = document.querySelector("#output");
 
 
-const serverURL = "https://api.funtranslations.com/translate/us2uk.json"
+const serverURL = "https://api.funtranslations.com/translate/british.json"
 
 function getTranslationURL(text){
   return serverURL + "?" + "text=" + text
