@@ -26,10 +26,6 @@ fetch(getTranslationURL(inputText))
 })
 
 };
-
-
-
-
 function speakHandler(){
     const out = document.getElementById("output").value
     responsiveVoice.speak(out);
